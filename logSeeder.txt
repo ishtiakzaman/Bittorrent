@@ -1,0 +1,17 @@
+opening moby_dick.txt.torrent
+File: moby_dick.txt, Total Peers: 1, Sending 1024 Bytes To 156.56.83.11:33224, Total Uploaded: 1024 Bytes
+File: moby_dick.txt, Total Peers: 1, Sending 1024 Bytes To 156.56.83.11:33224, Total Uploaded: 2048 Bytes
+File: moby_dick.txt, Total Peers: 1, Sending 970 Bytes To 156.56.83.11:33224, Total Uploaded: 3018 B
+File: moby_dick.txt, Total Peers: 1, Sending 1024 Bytes To 156.56.83.11:33224, Total Uploaded: 4042 Bytes
+File: moby_dick.txt, Total Peers: 1, Sending 1024 Bytes To 156.56.83.11:33224, Total Uploaded: 5066 Bytes
+File: moby_dick.txt, Total Peers: 1, Sending 1024 Bytes To 156.56.83.11:33224, Total Uploaded: 6090 Bytes
+File: moby_dick.txt, Total Peers: 1, Sending 1024 Bytes To 156.56.83.11:33224, Total Uploaded: 7114 Bytes
+File: moby_dick.txt, Total Peers: 1, Sending 1024 Bytes To 156.56.83.11:33224, Total Uploaded: 8138 Bytes
+File: moby_dick.txt, Total Peers: 1, Sending 1024 Bytes To 156.56.83.11:33224, Total Uploaded: 9162 Bytes
+File: moby_dick.txt, Total Peers: 1, Sending 1024 Bytes To 156.56.83.11:33224, Total Uploaded: 10186 Bytes
+File: moby_dick.txt, Total Peers: 1, Sending 1024 Bytes To 156.56.83.11:33224, Total Uploaded: 11210 Bytes
+File: moby_dick.txt, Total Peers: 1, Sending 1024 Bytes To 156.56.83.11:33224, Total Uploaded: 12234 Bytes
+File: moby_dick.txt, Total Peers: 1, Sending 1024 Bytes To 156.56.83.11:33224, Total Uploaded: 13258 Bytes
+File: moby_dick.txt, Total Peers: 1, Sending 1024 Bytes To 156.56.83.11:33224, Total Uploaded: 14282 Bytes
+File: moby_dick.txt, Total Peers: 1, Sending 1024 Bytes To 156.56.83.11:33224, Total Uploaded: 15306 Bytes
+File: moby_dick.txt, Total Peers: 1, Sending 1024 Bytes To 156.56.83.11:33224, Total Uploaded: 16330 Bytes

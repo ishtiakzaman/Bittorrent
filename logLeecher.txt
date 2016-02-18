@@ -1,0 +1,63 @@
+Trying to a make a TCP with peer : 129.79.247.5:6667
+Connected to peer : 129.79.247.5:6667
+Trying to a make a TCP with peer : 156.56.83.12:6667
+Connected to peer : 156.56.83.12:6667
+Leecher connecting from : 156.56.83.11:33222
+Starting Handshake for peer : 129.79.247.5:6667
+Handshake: Step 1 send: successful
+Handshake: Step 1 recv: successful
+Handshake: Step 2 send: successful
+Handshake: Step 2 recv: successful
+Handshake: Step 3 send: successful
+Handshake: Step 3 recv: successful
+Handshake: Step 4 send: successful
+Handshake: Step 4 recv: successful
+Handshake completed for peer : 129.79.247.5:6667
+Leecher connecting from : 156.56.83.11:52881
+Starting Handshake for peer : 156.56.83.12:6667
+Handshake: Step 1 send: successful
+Handshake: Step 1 recv: successful
+Handshake: Step 2 send: successful
+Handshake: Step 2 recv: successful
+Handshake: Step 3 send: successful
+Handshake: Step 3 recv: successful
+Handshake: Step 4 send: successful
+Handshake: Step 4 recv: successful
+Handshake completed for peer : 156.56.83.12:6667
+Getting details
+leecher start
+Leecher start: Waiting for bitfield
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 129.79.247.5:6667, Total Downloaded: 1024 Bytes, Completed: 3.231%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 156.56.83.12:6667, Total Downloaded: 2048 Bytes, Completed: 6.463%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 156.56.83.12:6667, Total Downloaded: 3072 Bytes, Completed: 9.694%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 129.79.247.5:6667, Total Downloaded: 4096 Bytes, Completed: 12.93%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 156.56.83.12:6667, Total Downloaded: 5120 Bytes, Completed: 16.16%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 156.56.83.12:6667, Total Downloaded: 6144 Bytes, Completed: 19.39%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 156.56.83.12:6667, Total Downloaded: 7168 Bytes, Completed: 22.62%
+File: moby_dick.txt, Total Peers: 2, Getting 970 Bytes From 129.79.247.5:6667, Total Downloaded: 8138 Bytes, Completed: 25.68%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 129.79.247.5:6667, Total Downloaded: 9162 Bytes, Completed: 28.91%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 129.79.247.5:6667, Total Downloaded: 10186 Bytes, Completed: 32.14%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 129.79.247.5:6667, Total Downloaded: 11210 Bytes, Completed: 35.37%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 156.56.83.12:6667, Total Downloaded: 12234 Bytes, Completed: 38.61%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 129.79.247.5:6667, Total Downloaded: 13258 Bytes, Completed: 41.84%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 156.56.83.12:6667, Total Downloaded: 14282 Bytes, Completed: 45.07%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 156.56.83.12:6667, Total Downloaded: 15306 Bytes, Completed: 48.3%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 129.79.247.5:6667, Total Downloaded: 16330 Bytes, Completed: 51.53%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 129.79.247.5:6667, Total Downloaded: 17354 Bytes, Completed: 54.76%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 156.56.83.12:6667, Total Downloaded: 18378 Bytes, Completed: 57.99%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 129.79.247.5:6667, Total Downloaded: 19402 Bytes, Completed: 61.22%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 129.79.247.5:6667, Total Downloaded: 20426 Bytes, Completed: 64.46%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 156.56.83.12:6667, Total Downloaded: 21450 Bytes, Completed: 67.69%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 156.56.83.12:6667, Total Downloaded: 22474 Bytes, Completed: 70.92%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 156.56.83.12:6667, Total Downloaded: 23498 Bytes, Completed: 74.15%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 129.79.247.5:6667, Total Downloaded: 24522 Bytes, Completed: 77.38%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 129.79.247.5:6667, Total Downloaded: 25546 Bytes, Completed: 80.61%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 129.79.247.5:6667, Total Downloaded: 26570 Bytes, Completed: 83.84%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 129.79.247.5:6667, Total Downloaded: 27594 Bytes, Completed: 87.07%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 156.56.83.12:6667, Total Downloaded: 28618 Bytes, Completed: 90.31%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 129.79.247.5:6667, Total Downloaded: 29642 Bytes, Completed: 93.54%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 156.56.83.12:6667, Total Downloaded: 30666 Bytes, Completed: 96.77%
+File: moby_dick.txt, Total Peers: 2, Getting 1024 Bytes From 156.56.83.12:6667, Total Downloaded: 31690 Bytes, Completed: 100%
+Piece 0 fully received
+SHA passed for piece index: 0
+Leecher done, closing sockets
